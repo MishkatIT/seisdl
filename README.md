@@ -1,2 +1,2 @@
 # Software Engineering and Information System Design Lab
-This repo contains Software Engineering and Information System Design Lab's report or other stuffs. 
+This repo contains the Software Engineering and Information System Design Lab's report or other stuff. 
